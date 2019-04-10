@@ -1,0 +1,30 @@
+.slicica{
+       font-size: 100px;
+}
+footer {
+
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+h1 {
+    color:red;
+}
+ 
+.profslika{
+       width: 100%;
+       height: auto;
+}
+
+header{
+       position: fixed;
+       top:0;
+       left:0;
+       width: 100%;
+       background-color: red;
+       color: white;
+       text-align: center;
+       z-index: 100;
+}
