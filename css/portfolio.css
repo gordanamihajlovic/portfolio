@@ -4,13 +4,15 @@
 footer {
 
     width: 100%;
-    background-color: red;
+    background-color:black;
     color: white;
     text-align: center;
   }
 
 h1 {
-    color:red;
+padding-top: 50px;
+text-align: center;
+
 }
  
 .profslika{
@@ -23,8 +25,16 @@ header{
        top:0;
        left:0;
        width: 100%;
-       background-color: red;
+       background-color:black;
        color: white;
        text-align: center;
        z-index: 100;
+}
+body{
+       height: 600px;
+       background-image: linear-gradient(to bottom, rgb(5, 48, 84),  rgb(255, 255, 255));
+
+       background-repeat: repeat-x, no-repeat, repeat-y;
+       background-size: 100%;
+       background-position: left top, right bottom, left top; 
 }
